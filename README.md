@@ -4,7 +4,6 @@
   
   
 ## Mes objectifs à BeCode: <h2>
-
 - Devenir une meilleure version de moi-même;
 - Acquérir un maximum de compétences
 - Créer des contacts professionnel
